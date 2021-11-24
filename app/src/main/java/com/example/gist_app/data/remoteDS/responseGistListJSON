@@ -1,0 +1,96 @@
+[
+  {
+    "url": "https://api.github.com/gists/b39671c33b3cd7a84967124e5030bc8e",
+    "forks_url": "https://api.github.com/gists/b39671c33b3cd7a84967124e5030bc8e/forks",
+    "commits_url": "https://api.github.com/gists/b39671c33b3cd7a84967124e5030bc8e/commits",
+    "id": "b39671c33b3cd7a84967124e5030bc8e",
+    "node_id": "G_kwDOAkLQKNoAIGIzOTY3MWMzM2IzY2Q3YTg0OTY3MTI0ZTUwMzBiYzhl",
+    "git_pull_url": "https://gist.github.com/b39671c33b3cd7a84967124e5030bc8e.git",
+    "git_push_url": "https://gist.github.com/b39671c33b3cd7a84967124e5030bc8e.git",
+    "html_url": "https://gist.github.com/b39671c33b3cd7a84967124e5030bc8e",
+    "files": {
+      "gistfile1.txt": {
+        "filename": "gistfile1.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/r-ryantm/b39671c33b3cd7a84967124e5030bc8e/raw/3e841c43005897d09e86c0734f3f400d15a07f0a/gistfile1.txt",
+        "size": 100335
+      }
+    },
+    "public": true,
+    "created_at": "2021-10-13T03:13:20Z",
+    "updated_at": "2021-10-13T03:13:20Z",
+    "description": null,
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/b39671c33b3cd7a84967124e5030bc8e/comments",
+    "owner": {
+      "login": "r-ryantm",
+      "id": 37933096,
+      "node_id": "MDQ6VXNlcjM3OTMzMDk2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37933096?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/r-ryantm",
+      "html_url": "https://github.com/r-ryantm",
+      "followers_url": "https://api.github.com/users/r-ryantm/followers",
+      "following_url": "https://api.github.com/users/r-ryantm/following{/other_user}",
+      "gists_url": "https://api.github.com/users/r-ryantm/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/r-ryantm/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/r-ryantm/subscriptions",
+      "organizations_url": "https://api.github.com/users/r-ryantm/orgs",
+      "repos_url": "https://api.github.com/users/r-ryantm/repos",
+      "events_url": "https://api.github.com/users/r-ryantm/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/r-ryantm/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c1f5b1e2df38f46e7bcc84216f8535be",
+    "forks_url": "https://api.github.com/gists/c1f5b1e2df38f46e7bcc84216f8535be/forks",
+    "commits_url": "https://api.github.com/gists/c1f5b1e2df38f46e7bcc84216f8535be/commits",
+    "id": "c1f5b1e2df38f46e7bcc84216f8535be",
+    "node_id": "G_kwDOAkLQKNoAIGMxZjViMWUyZGYzOGY0NmU3YmNjODQyMTZmODUzNWJl",
+    "git_pull_url": "https://gist.github.com/c1f5b1e2df38f46e7bcc84216f8535be.git",
+    "git_push_url": "https://gist.github.com/c1f5b1e2df38f46e7bcc84216f8535be.git",
+    "html_url": "https://gist.github.com/c1f5b1e2df38f46e7bcc84216f8535be",
+    "files": {
+      "gistfile1.txt": {
+        "filename": "gistfile1.txt",
+        "type": "text/plain",
+        "language": "Text",
+        "raw_url": "https://gist.githubusercontent.com/r-ryantm/c1f5b1e2df38f46e7bcc84216f8535be/raw/49bea5c90244ed07045b83becaec8c79bf233e38/gistfile1.txt",
+        "size": 275958
+      }
+    },
+    "public": true,
+    "created_at": "2021-10-13T03:13:18Z",
+    "updated_at": "2021-10-13T03:13:19Z",
+    "description": null,
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/c1f5b1e2df38f46e7bcc84216f8535be/comments",
+    "owner": {
+      "login": "r-ryantm",
+      "id": 37933096,
+      "node_id": "MDQ6VXNlcjM3OTMzMDk2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37933096?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/r-ryantm",
+      "html_url": "https://github.com/r-ryantm",
+      "followers_url": "https://api.github.com/users/r-ryantm/followers",
+      "following_url": "https://api.github.com/users/r-ryantm/following{/other_user}",
+      "gists_url": "https://api.github.com/users/r-ryantm/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/r-ryantm/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/r-ryantm/subscriptions",
+      "organizations_url": "https://api.github.com/users/r-ryantm/orgs",
+      "repos_url": "https://api.github.com/users/r-ryantm/repos",
+      "events_url": "https://api.github.com/users/r-ryantm/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/r-ryantm/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "truncated": false
+  }
+  ]
