@@ -1,0 +1,2 @@
+rootProject.name = "Gist_app"
+include ':app'
